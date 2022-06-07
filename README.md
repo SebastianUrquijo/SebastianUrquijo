@@ -7,15 +7,15 @@
 
 🛠 Tech Skills
 
--💻 JavaScript | NodeJs | ReactJs
--🌐 HTML5 | CSS3 | Multer | Cloudinary | Redux | Express | Firebase
--🛢  PostgreSQL | Sequelize (ORM)
--🔧 Visual Studio code | Insomnia | Postman | Git | Slack | Discord 
+- 💻 JavaScript | NodeJs | ReactJs
+- 🌐 HTML5 | CSS3 | Multer | Cloudinary | Redux | Express | Firebase
+- 🛢  PostgreSQL | Sequelize (ORM)
+- 🔧 Visual Studio code | Insomnia | Postman | Git | Slack | Discord 
 
 📞 Contact
 
--📬 sebastian.urquijo98@gmail.com
--🧾 https://www.linkedin.com/in/jsur98/
+- 📬 sebastian.urquijo98@gmail.com
+- 🧾 https://www.linkedin.com/in/jsur98/
 
 <!---
 SebastianUrquijo/SebastianUrquijo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
