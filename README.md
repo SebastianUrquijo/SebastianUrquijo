@@ -12,6 +12,10 @@
 - 🛢  PostgreSQL | Sequelize (ORM)
 - 🔧 Visual Studio code | Insomnia | Postman | Git | Slack | Discord 
 
+🌎 Portfolio
+
+- 👨‍💻 https://sebastian-urquijo.vercel.app/
+
 📞 Contact
 
 - 📬 sebastian.urquijo98@gmail.com
